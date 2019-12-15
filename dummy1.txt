@@ -1,1 +1,3 @@
 Dummy file 1
+
+I edited this file directly on Github to create a diff between the server ver and the local ver. I'm also going to create a branch before I pull this ver to local.
